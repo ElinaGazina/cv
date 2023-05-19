@@ -35,9 +35,9 @@
 */
 
 :root {
-  --text-color: #7ad305;
-  --gray-color: rgb(125, 56, 128);
-  --background-color: #ebe713f6;
+  --text-color: #1764179d;
+  --gray-color: rgb(83, 23, 85);
+  --background-color: #bbddb0f6;
 }
 
 html {
@@ -51,7 +51,7 @@ body {
   font-weight: 800;
   letter-spacing: -0.1vw;
   background-color: var(--background-color);
-  color: rgba(211, 81, 223, 0.753);
+  color: rgba(29, 122, 76, 0.753);
 
   /* 
   Меняем стандартный курсор на милого котика, а так как котик у нас круглый,
